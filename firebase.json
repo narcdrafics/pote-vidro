@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "pote-vidro-hermetico-marmita",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/pote-vidro-hermetico-marmita.html"
+      }
+    ]
+  }
+}
