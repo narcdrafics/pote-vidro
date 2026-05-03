@@ -10,7 +10,7 @@
     "rewrites": [
       {
         "source": "**",
-        "destination": "/pote-vidro-hermetico-marmita.html"
+        "destination": "/potes-vidro-starhouse.html"
       }
     ]
   }
